@@ -1,0 +1,361 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-06-19 09:55 CDT
+Nmap scan report for _gateway (172.17.20.1)
+Host is up (0.013s latency).
+MAC Address: 00:00:0C:07:AC:14 (Cisco Systems)
+Nmap scan report for 172.17.20.2
+Host is up (0.018s latency).
+MAC Address: 54:7F:EE:4A:03:C1 (Cisco Systems)
+Nmap scan report for 172.17.20.3
+Host is up (0.019s latency).
+MAC Address: 54:7F:EE:B0:BA:41 (Cisco Systems)
+Nmap scan report for 172.17.20.5
+Host is up (0.020s latency).
+MAC Address: A4:93:4C:B0:FA:0F (Cisco Systems)
+Nmap scan report for 172.17.20.11
+Host is up (0.0069s latency).
+MAC Address: 8E:DF:50:48:B2:60 (Unknown)
+Nmap scan report for 172.17.20.12
+Host is up (0.0044s latency).
+MAC Address: 54:88:0E:3D:D8:66 (Samsung Electro-mechanics(thailand))
+Nmap scan report for 172.17.20.15
+Host is up (0.0052s latency).
+MAC Address: 1A:A0:08:BC:FC:8F (Unknown)
+Nmap scan report for 172.17.20.17
+Host is up (0.0032s latency).
+MAC Address: 12:06:49:15:EA:54 (Unknown)
+Nmap scan report for alisa-s-galaxy-note20-5g.ditchwitch.cmw.internal (172.17.20.18)
+Host is up (0.0060s latency).
+MAC Address: F6:19:B3:E7:7E:32 (Unknown)
+Nmap scan report for ss-eng-001-l.ditchwitch.cmw.internal (172.17.20.19)
+Host is up (0.0077s latency).
+MAC Address: F8:59:71:40:C2:E3 (Intel Corporate)
+Nmap scan report for 172.17.20.20
+Host is up (0.013s latency).
+MAC Address: 72:EC:79:76:26:7A (Unknown)
+Nmap scan report for sensor203c02.ditchwitch.cmw.internal (172.17.20.21)
+Host is up (0.014s latency).
+MAC Address: 98:8B:AD:20:3C:02 (Corintech)
+Nmap scan report for honor_view10-8ea0e81a20c0.ditchwitch.cmw.internal (172.17.20.22)
+Host is up (0.015s latency).
+MAC Address: F0:0F:EC:74:CF:BF (Huawei Technologies)
+Nmap scan report for 172.17.20.23
+Host is up (0.0056s latency).
+MAC Address: 8E:78:56:10:DB:15 (Unknown)
+Nmap scan report for 172.17.20.24
+Host is up (0.0060s latency).
+MAC Address: E6:E5:5F:BF:11:C5 (Unknown)
+Nmap scan report for galaxy-s7.ditchwitch.cmw.internal (172.17.20.27)
+Host is up (0.0069s latency).
+MAC Address: A8:DB:03:47:29:60 (Samsung Electro-mechanics(thailand))
+Nmap scan report for 172.17.20.29
+Host is up (0.0072s latency).
+MAC Address: EA:88:F1:38:D2:7E (Unknown)
+Nmap scan report for galaxy-s21-fe-5g.ditchwitch.cmw.internal (172.17.20.30)
+Host is up (0.012s latency).
+MAC Address: 46:37:EE:2E:87:80 (Unknown)
+Nmap scan report for galaxy-a12.ditchwitch.cmw.internal (172.17.20.33)
+Host is up (0.0030s latency).
+MAC Address: F2:0C:40:0D:2B:56 (Unknown)
+Nmap scan report for 172.17.20.38
+Host is up (0.0060s latency).
+MAC Address: DE:C4:9D:34:16:13 (Unknown)
+Nmap scan report for 172.17.20.40
+Host is up (0.0066s latency).
+MAC Address: 2E:1E:0B:EE:E0:68 (Unknown)
+Nmap scan report for galaxy-j3-v.ditchwitch.cmw.internal (172.17.20.41)
+Host is up (0.013s latency).
+MAC Address: F4:7D:EF:32:9A:7B (Samsung Electronics)
+Nmap scan report for 172.17.20.44
+Host is up (0.0047s latency).
+MAC Address: 1A:EC:BD:C7:E9:84 (Unknown)
+Nmap scan report for 172.17.20.45
+Host is up (0.014s latency).
+MAC Address: 0A:30:1E:7E:37:7E (Unknown)
+Nmap scan report for galaxy-s21-ultra-5g.ditchwitch.cmw.internal (172.17.20.46)
+Host is up (0.015s latency).
+MAC Address: 72:4D:2C:C1:4C:80 (Unknown)
+Nmap scan report for galaxy-a42-5g.ditchwitch.cmw.internal (172.17.20.47)
+Host is up (0.0061s latency).
+MAC Address: 4E:AD:CF:8C:83:3D (Unknown)
+Nmap scan report for 172.17.20.48
+Host is up (0.0072s latency).
+MAC Address: 22:B8:0D:74:AB:60 (Unknown)
+Nmap scan report for 172.17.20.49
+Host is up (0.0081s latency).
+MAC Address: 2A:F6:A8:BD:99:69 (Unknown)
+Nmap scan report for 172.17.20.50
+Host is up (0.0087s latency).
+MAC Address: 2E:FF:34:C1:21:47 (Unknown)
+Nmap scan report for 172.17.20.51
+Host is up (0.0093s latency).
+MAC Address: 12:EB:52:CC:7D:CD (Unknown)
+Nmap scan report for rebecca-s-galaxy-a10e.ditchwitch.cmw.internal (172.17.20.53)
+Host is up (0.010s latency).
+MAC Address: 42:B3:EB:60:B8:A2 (Unknown)
+Nmap scan report for android-722db396b4e3a757.ditchwitch.cmw.internal (172.17.20.55)
+Host is up (0.016s latency).
+MAC Address: 8C:3A:E3:60:88:AE (LG Electronics (Mobile Communications))
+Nmap scan report for galaxy-a03s.ditchwitch.cmw.internal (172.17.20.56)
+Host is up (0.0023s latency).
+MAC Address: 76:00:28:53:E6:53 (Unknown)
+Nmap scan report for 172.17.20.58
+Host is up (0.011s latency).
+MAC Address: 9A:19:CA:B2:30:56 (Unknown)
+Nmap scan report for 172.17.20.60
+Host is up (0.012s latency).
+MAC Address: 3A:7E:E9:A3:A3:55 (Unknown)
+Nmap scan report for z5156cc.ditchwitch.cmw.internal (172.17.20.63)
+Host is up (0.013s latency).
+MAC Address: 52:A9:1C:5A:06:51 (Unknown)
+Nmap scan report for 172.17.20.65
+Host is up (0.014s latency).
+MAC Address: BA:C5:A5:4B:B7:3C (Unknown)
+Nmap scan report for 172.17.20.66
+Host is up (0.014s latency).
+MAC Address: 1A:DC:CA:9E:45:2C (Unknown)
+Nmap scan report for 172.17.20.71
+Host is up (0.0044s latency).
+MAC Address: 16:24:E0:B9:D1:3C (Unknown)
+Nmap scan report for raven-rust.ditchwitch.cmw.internal (172.17.20.72)
+Host is up (0.0075s latency).
+MAC Address: EA:8F:9F:BB:67:4E (Unknown)
+Nmap scan report for cn3762lt188245.wgs.wuerth.com (172.17.20.73)
+Host is up (0.0075s latency).
+MAC Address: 10:3D:1C:38:55:36 (Unknown)
+Nmap scan report for justuss-iphone.ditchwitch.cmw.internal (172.17.20.75)
+Host is up (0.0097s latency).
+MAC Address: 2C:F0:A2:AD:75:DA (Apple)
+Nmap scan report for 172.17.20.79
+Host is up (0.016s latency).
+MAC Address: 6A:77:14:62:79:7F (Unknown)
+Nmap scan report for 172.17.20.83
+Host is up (0.010s latency).
+MAC Address: 02:90:72:56:22:87 (Unknown)
+Nmap scan report for 172.17.20.84
+Host is up (0.010s latency).
+MAC Address: 68:DB:F5:16:BF:19 (Amazon Technologies)
+Nmap scan report for 172.17.20.85
+Host is up (0.0047s latency).
+MAC Address: F6:4B:3D:0C:5B:2D (Unknown)
+Nmap scan report for 172.17.20.86
+Host is up (0.0051s latency).
+MAC Address: 2A:EB:F5:38:09:14 (Unknown)
+Nmap scan report for 172.17.20.88
+Host is up (0.0093s latency).
+MAC Address: CA:D1:BF:82:BF:0E (Unknown)
+Nmap scan report for 172.17.20.89
+Host is up (0.010s latency).
+MAC Address: CA:5F:6B:7E:CA:E1 (Unknown)
+Nmap scan report for 172.17.20.92
+Host is up (0.0062s latency).
+MAC Address: FE:80:48:97:27:A7 (Unknown)
+Nmap scan report for 172.17.20.93
+Host is up (0.0076s latency).
+MAC Address: A2:3E:CD:9B:4F:F7 (Unknown)
+Nmap scan report for 172.17.20.95
+Host is up (0.0068s latency).
+MAC Address: 0A:A3:28:20:71:67 (Unknown)
+Nmap scan report for 172.17.20.96
+Host is up (0.0074s latency).
+MAC Address: DE:01:85:7E:5B:1E (Unknown)
+Nmap scan report for rock-it.ditchwitch.cmw.internal (172.17.20.97)
+Host is up (0.0064s latency).
+MAC Address: 8C:7B:9D:73:F0:51 (Apple)
+Nmap scan report for 172.17.20.98
+Host is up (0.0084s latency).
+MAC Address: E2:CD:70:AD:59:BB (Unknown)
+Nmap scan report for 172.17.20.100
+Host is up (0.0084s latency).
+MAC Address: 06:C2:39:E9:4A:C6 (Unknown)
+Nmap scan report for fred-s-z-fold4.ditchwitch.cmw.internal (172.17.20.101)
+Host is up (0.0084s latency).
+MAC Address: CE:7F:BA:CD:EB:69 (Unknown)
+Nmap scan report for samsung-sm-g930a.ditchwitch.cmw.internal (172.17.20.102)
+Host is up (0.0084s latency).
+MAC Address: AC:5F:3E:A1:28:3F (Samsung Electro-mechanics(thailand))
+Nmap scan report for 172.17.20.104
+Host is up (0.0083s latency).
+MAC Address: F6:C7:C3:FF:B9:BB (Unknown)
+Nmap scan report for 172.17.20.105
+Host is up (0.0053s latency).
+MAC Address: C6:27:07:31:5B:08 (Unknown)
+Nmap scan report for samsung.ditchwitch.cmw.internal (172.17.20.106)
+Host is up (0.0060s latency).
+MAC Address: 64:1C:B0:CA:2D:53 (Samsung Electronics)
+Nmap scan report for galaxy-s21-5g.ditchwitch.cmw.internal (172.17.20.109)
+Host is up (0.0060s latency).
+MAC Address: D2:1E:83:FD:F7:CA (Unknown)
+Nmap scan report for galaxy-s9.ditchwitch.cmw.internal (172.17.20.110)
+Host is up (0.0060s latency).
+MAC Address: 9E:83:FC:32:27:2F (Unknown)
+Nmap scan report for 172.17.20.112
+Host is up (0.0029s latency).
+MAC Address: FA:CF:A6:54:A5:37 (Unknown)
+Nmap scan report for 172.17.20.113
+Host is up (0.0041s latency).
+MAC Address: DA:B9:4F:88:4A:00 (Unknown)
+Nmap scan report for galaxy-s21-ultra-5g.ditchwitch.cmw.internal (172.17.20.116)
+Host is up (0.0040s latency).
+MAC Address: 56:A8:1E:B7:F0:6C (Unknown)
+Nmap scan report for 172.17.20.117
+Host is up (0.0040s latency).
+MAC Address: 7A:17:D8:B4:D7:AF (Unknown)
+Nmap scan report for 172.17.20.118
+Host is up (0.0040s latency).
+MAC Address: 06:13:A0:50:79:AC (Unknown)
+Nmap scan report for 172.17.20.119
+Host is up (0.0040s latency).
+MAC Address: B2:63:02:64:C8:01 (Unknown)
+Nmap scan report for 172.17.20.120
+Host is up (0.0040s latency).
+MAC Address: 5E:28:11:89:8F:C9 (Unknown)
+Nmap scan report for dylan-s-s21-fe.ditchwitch.cmw.internal (172.17.20.121)
+Host is up (0.0040s latency).
+MAC Address: DA:E9:4D:39:AD:8B (Unknown)
+Nmap scan report for 172.17.20.122
+Host is up (0.0039s latency).
+MAC Address: 72:EA:92:D9:21:00 (Unknown)
+Nmap scan report for 172.17.20.123
+Host is up (0.0057s latency).
+MAC Address: 3A:82:75:EF:F3:57 (Unknown)
+Nmap scan report for 172.17.20.124
+Host is up (0.0057s latency).
+MAC Address: E2:B8:BE:29:46:D2 (Unknown)
+Nmap scan report for 172.17.20.125
+Host is up (0.0057s latency).
+MAC Address: 3E:3A:42:19:E1:B3 (Unknown)
+Nmap scan report for 172.17.20.126
+Host is up (0.0057s latency).
+MAC Address: D6:58:0D:0F:84:E4 (Unknown)
+Nmap scan report for 172.17.20.127
+Host is up (0.011s latency).
+MAC Address: 7E:7E:36:7F:CF:99 (Unknown)
+Nmap scan report for 172.17.20.128
+Host is up (0.011s latency).
+MAC Address: 36:5C:43:FF:1C:5E (Unknown)
+Nmap scan report for oneplus-nord.ditchwitch.cmw.internal (172.17.20.130)
+Host is up (0.011s latency).
+MAC Address: 0E:4C:EF:09:54:87 (Unknown)
+Nmap scan report for 172.17.20.131
+Host is up (0.011s latency).
+MAC Address: 0E:FE:EB:C8:2F:3C (Unknown)
+Nmap scan report for 172.17.20.133
+Host is up (0.0036s latency).
+MAC Address: E6:2F:8E:2E:F2:91 (Unknown)
+Nmap scan report for 172.17.20.134
+Host is up (0.0042s latency).
+MAC Address: 2E:B2:A1:49:99:A2 (Unknown)
+Nmap scan report for 172.17.20.135
+Host is up (0.0042s latency).
+MAC Address: 66:A1:6C:F9:1E:B8 (Unknown)
+Nmap scan report for viraj-s-s22-ultra.ditchwitch.cmw.internal (172.17.20.138)
+Host is up (0.0041s latency).
+MAC Address: 46:67:8F:DA:E3:DB (Unknown)
+Nmap scan report for 172.17.20.139
+Host is up (0.0041s latency).
+MAC Address: 8E:4B:CA:46:F9:C7 (Unknown)
+Nmap scan report for 172.17.20.140
+Host is up (0.0041s latency).
+MAC Address: 2A:97:B2:0A:DA:4D (Unknown)
+Nmap scan report for 172.17.20.141
+Host is up (0.0041s latency).
+MAC Address: 12:B2:C7:3A:01:FF (Unknown)
+Nmap scan report for cn3762lt100358.wgs.wuerth.com (172.17.20.144)
+Host is up (0.0049s latency).
+MAC Address: 68:54:5A:5D:7D:A2 (Intel Corporate)
+Nmap scan report for 172.17.20.146
+Host is up (0.0048s latency).
+MAC Address: 86:A0:B1:D4:D3:11 (Unknown)
+Nmap scan report for 172.17.20.147
+Host is up (0.0057s latency).
+MAC Address: 8A:64:14:3D:98:CD (Unknown)
+Nmap scan report for galaxy-a13.ditchwitch.cmw.internal (172.17.20.148)
+Host is up (0.0057s latency).
+MAC Address: EE:E6:4C:24:FD:99 (Unknown)
+Nmap scan report for 172.17.20.149
+Host is up (0.0057s latency).
+MAC Address: 5A:8C:37:7B:CC:40 (Unknown)
+Nmap scan report for 172.17.20.150
+Host is up (0.0057s latency).
+MAC Address: 02:AD:FF:A9:42:9D (Unknown)
+Nmap scan report for 172.17.20.151
+Host is up (0.0082s latency).
+MAC Address: EA:64:B1:5B:F7:A4 (Unknown)
+Nmap scan report for 172.17.20.153
+Host is up (0.0082s latency).
+MAC Address: D6:F6:FA:2A:FC:FA (Unknown)
+Nmap scan report for 172.17.20.154
+Host is up (0.0082s latency).
+MAC Address: CE:4E:97:84:23:B9 (Unknown)
+Nmap scan report for kevins-mac-mini.ditchwitch.cmw.internal (172.17.20.157)
+Host is up (0.0082s latency).
+MAC Address: 14:98:77:2E:3C:BA (Unknown)
+Nmap scan report for 172.17.20.159
+Host is up (0.0082s latency).
+MAC Address: D6:A0:73:E5:D7:2C (Unknown)
+Nmap scan report for 172.17.20.160
+Host is up (0.0044s latency).
+MAC Address: FE:2D:03:1A:A5:78 (Unknown)
+Nmap scan report for 172.17.20.161
+Host is up (0.0044s latency).
+MAC Address: F6:89:BC:DF:DC:BB (Unknown)
+Nmap scan report for micah-s-s21.ditchwitch.cmw.internal (172.17.20.162)
+Host is up (0.0026s latency).
+MAC Address: BA:C8:D1:95:B7:48 (Unknown)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.163)
+Host is up (0.0040s latency).
+MAC Address: AC:67:5D:25:39:60 (Intel Corporate)
+Nmap scan report for 172.17.20.166
+Host is up (0.0040s latency).
+MAC Address: B2:D5:CD:AC:7D:C6 (Unknown)
+Nmap scan report for joes-mbp-2.ditchwitch.cmw.internal (172.17.20.167)
+Host is up (0.0051s latency).
+MAC Address: A4:5E:60:E1:DF:7B (Apple)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.169)
+Host is up (0.0051s latency).
+MAC Address: 74:D8:3E:E5:BE:EC (Intel Corporate)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.170)
+Host is up (0.0051s latency).
+MAC Address: AC:67:5D:13:25:AE (Intel Corporate)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.171)
+Host is up (0.0051s latency).
+MAC Address: AC:67:5D:07:82:A8 (Intel Corporate)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.172)
+Host is up (0.0051s latency).
+MAC Address: 74:D8:3E:A5:9A:8D (Intel Corporate)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.174)
+Host is up (0.0060s latency).
+MAC Address: 14:F6:D8:F9:DE:AE (Intel Corporate)
+Nmap scan report for esp_1eb861.ditchwitch.cmw.internal (172.17.20.176)
+Host is up (0.0059s latency).
+MAC Address: 4C:75:25:1E:B8:61 (Unknown)
+Nmap scan report for 172.17.20.178
+Host is up (0.0059s latency).
+MAC Address: 1E:39:FE:EB:BC:5F (Unknown)
+Nmap scan report for 172.17.20.180
+Host is up (0.0059s latency).
+MAC Address: AE:03:6F:80:65:09 (Unknown)
+Nmap scan report for toro-latitude-5400.ditchwitch.cmw.internal (172.17.20.181)
+Host is up (0.0070s latency).
+MAC Address: 74:D8:3E:AE:CF:B3 (Intel Corporate)
+Nmap scan report for rpislave.ditchwitch.cmw.internal (172.17.20.183)
+Host is up (0.0044s latency).
+MAC Address: B8:27:EB:76:33:B6 (Raspberry Pi Foundation)
+Nmap scan report for ss-int-002-l.ditchwitch.cmw.internal (172.17.20.184)
+Host is up (0.0044s latency).
+MAC Address: 28:16:AD:8B:2F:AE (Intel Corporate)
+Nmap scan report for rpimaster.ditchwitch.cmw.internal (172.17.20.185)
+Host is up (0.0054s latency).
+MAC Address: B8:27:EB:72:07:6E (Raspberry Pi Foundation)
+Nmap scan report for 172.17.20.194
+Host is up (0.0049s latency).
+MAC Address: F2:7E:92:CF:91:83 (Unknown)
+Nmap scan report for 172.17.20.201
+Host is up (0.0062s latency).
+MAC Address: 2A:78:C2:8A:05:75 (Unknown)
+Nmap scan report for cn3762lt100206.wgs.wuerth.com (172.17.20.210)
+Host is up (0.0020s latency).
+MAC Address: 34:7D:F6:67:74:92 (Intel Corporate)
+Nmap scan report for tk.ditchwitch.cmw.internal (172.17.20.229)
+Host is up.
+Nmap done: 256 IP addresses (120 hosts up) scanned in 0.66 seconds
